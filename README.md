@@ -1,4 +1,3 @@
-# belajar-kolaborasi  
-* Perubahan commit pertama  
-* Perubahan commit kedua
-* Perubahan commit ketiga
+# Belajar Kolaborasi  
+* Commit pertama
+
